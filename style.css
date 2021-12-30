@@ -1,0 +1,39 @@
+body
+{
+   background-image: url("bg.jpg");
+   font-family: 'Source Serif Pro', serif;
+}
+.heading
+{
+   background-color:#b76e79;
+   color:azure; 
+   font-variant: small-caps; 
+   font-family: 'Source Serif Pro', serif;
+   font-weight: bolder;
+   font-size: 40px;
+}
+.note
+{
+   background-color: black;
+   color: blanchedalmond;
+   font-size: 19px;
+}
+.copy_right_footer
+{
+   background-color:cadetblue;
+   color: blanchedalmond;
+   font-size: 19px;
+   bottom:0;
+   position: fixed;
+   width: 100%;
+   text-align: center;
+   line-height: 3;
+}
+canvas
+{
+   border: 5px;
+   border-style: groove;
+   border-radius: 20px;
+   border-color:blueviolet;
+   box-shadow: 3px 3px 3px burlywood;
+}
